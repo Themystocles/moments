@@ -16,3 +16,16 @@ a {
 a:hover {
     color: #dec129;
 }
+
+/*form */
+form {
+    width: 450px;
+    margin: 0 auto;
+
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
